@@ -14,7 +14,7 @@ body {
     color: white;
 }
 
-/* Container */
+
 .container {
     width: 380px;
     padding: 30px;
@@ -25,12 +25,12 @@ body {
     text-align: center;
 }
 
-/* Title */
+
 h1 {
     margin-bottom: 15px;
 }
 
-/* Mode Buttons */
+
 .modes {
     display: flex;
     gap: 10px;
